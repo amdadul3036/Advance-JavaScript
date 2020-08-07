@@ -1,0 +1,2 @@
+1. == will check only the value.
+2. === will check both the value and datatype.
