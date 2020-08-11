@@ -1,0 +1,24 @@
+[{
+    "name":"Dhrubo",
+    "email": "amdadul3036@gmail.com",
+    "links":[
+        {"Facebook": "https://fb.com/dhrubo3036"},
+        {"Twitter":"https://dhruboish"},
+        {"Instagram": "www.instagram.com/dhruboish"}
+    ],
+    "Skills":["Adobe Premier Pro","Adobe XD", "HTML","CSS","JavaScript","Windows","Microsoft Office","Photography"],
+    "Age":20,
+    "IsMarried":false
+},
+{
+    "name":"Dhrubo",
+    "email": "amdadul3036@gmail.com",
+    "links":[
+        {"Facebook": "https://fb.com/dhrubo3036"},
+        {"Twitter":"https://dhruboish"},
+        {"Instagram": "www.instagram.com/dhruboish"}
+    ],
+    "Skills":["Adobe Premier Pro","Adobe XD", "HTML","CSS","JavaScript","Windows","Microsoft Office","Photography"],
+    "Age":20,
+    "IsMarried":false
+}]
