@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Async Await</h1>
+
+    <script>
+        async function callName(name){
+               return 'Hello '+ name;
+        }
+
+        const mofif = callName("Mofij");
+        console.log(mofif);
+        mofif.then(response => response.json());
+    </script>
+</body>
+</html>
